@@ -1,0 +1,9 @@
+[project]
+name = "qfun"
+description = "Toy quantum computer simulator writen in python3.11"
+version = "0.0.1"
+authors = [
+    { name = "Briac Flesselles", email = "briac.flesselles+qfun@gmail.com" }
+]
+dependencies = [
+]
